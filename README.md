@@ -1,2 +1,5 @@
 # pythonfordataanalysis
-this is my repo for all my python
+This is my repo for my python projects with data analysis 
+This file will include
+- Analysing Sales Data
+- 
